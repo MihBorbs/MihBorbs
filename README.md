@@ -3,12 +3,13 @@
 Atualmente, estou em transição de carreira para a área de **desenvolvimento back end com Java**, com foco em construir aplicações robustas, bem estruturadas e com boas práticas.
 
 Aqui está um pouco sobre mim:
-💻 Estudando diariamente Java, Spring Boot, POO, APIs REST e testes automatizados.
+
+-💻 Estudando diariamente Java, Spring Boot, POO, APIs REST e testes automatizados.
 - 🎓 Formação em testes de software com experiência em testes manuais e automação (Selenium, Rest-Assured, Appium).
 - 🛠️ Criando projetos próprios para aplicar e reforçar meu aprendizado técnico.
 - 🌱 Apaixonada por tecnologia, aprendizado contínuo e por transformar conhecimento em soluções práticas.
 
-- ### 🧠 Áreas de interesse
+### 🧠 Áreas de interesse
 - Desenvolvimento back end com Java
 - APIs RESTful
 - Testes automatizados (JUnit, Mockito)
@@ -16,7 +17,7 @@ Aqui está um pouco sobre mim:
 - Bancos de dados SQL e NoSQL
 - Versionamento com Git/GitHub
 
-- ### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 Java • Spring Boot • JPA/Hibernate • SQL • MongoDB  
 JUnit • Mockito • Git • GitHub • Maven • Docker  
 Selenium • Rest-Assured • Appium • Cucumber • Jira • Azure DevOps
