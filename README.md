@@ -1,11 +1,27 @@
 # ✨ Hi there, I'm Michelly! ✨
 ## Bem vindo ao meu perfil GitHub. 👋
-Estou embarcando em uma jornada emocionante de aprendizado e crescimento no mundo da programação e qualidade de software. Aqui está um pouco sobre mim:
-- 📚 Estou dedicando tempo diário para estudar Java, desde os conceitos fundamentais até os tópicos mais avançados, como lógica de programação, orientação a objetos e desenvolvimento web.
-- 🎓 Recentemente, concluí um curso de QA (Quality Assurance) como parte de uma transição de carreira para a área de teste de software.
-- 🔍 Estou interessado em explorar as diversas facetas do desenvolvimento de software, incluindo testes automatizados, integração contínua e práticas de desenvolvimento ágil.
-- 🌱 Estou animado com as possibilidades que o mundo da tecnologia oferece e estou comprometido em me tornar um desenvolvedor habilidoso e eficaz. Se você tiver algum conselho, sugestão ou oportunidade de colaboração, adoraria ouvir de você!
+Atualmente, estou em transição de carreira para a área de **desenvolvimento back end com Java**, com foco em construir aplicações robustas, bem estruturadas e com boas práticas.
+Aqui está um pouco sobre mim:
+💻 Estudando diariamente Java, Spring Boot, POO, APIs REST e testes automatizados.
+- 🎓 Formação em testes de software com experiência em testes manuais e automação (Selenium, Rest-Assured, Appium).
+- 🛠️ Criando projetos próprios para aplicar e reforçar meu aprendizado técnico.
+- 🌱 Apaixonada por tecnologia, aprendizado contínuo e por transformar conhecimento em soluções práticas.
 
+- ### 🧠 Áreas de interesse
+- Desenvolvimento back end com Java
+- APIs RESTful
+- Testes automatizados (JUnit, Mockito)
+- Boas práticas de código (SOLID, Clean Code)
+- Bancos de dados SQL e NoSQL
+- Versionamento com Git/GitHub
+
+- ### 🛠️ Tecnologias e Ferramentas
+Java • Spring Boot • JPA/Hibernate • SQL • MongoDB  
+JUnit • Mockito • Git • GitHub • Maven • Docker  
+Selenium • Rest-Assured • Appium • Cucumber • Jira • Azure DevOps
+
+### 🤝 Vamos nos conectar!
+Se você tiver sugestões, dicas ou quiser colaborar, estou sempre aberta a trocar experiências! 🚀
 <!---
 MihBorbs/MihBorbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
