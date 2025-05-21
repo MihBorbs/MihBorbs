@@ -1,6 +1,7 @@
 # ✨ Hi there, I'm Michelly! ✨
 ## Bem vindo ao meu perfil GitHub. 👋
 Atualmente, estou em transição de carreira para a área de **desenvolvimento back end com Java**, com foco em construir aplicações robustas, bem estruturadas e com boas práticas.
+
 Aqui está um pouco sobre mim:
 💻 Estudando diariamente Java, Spring Boot, POO, APIs REST e testes automatizados.
 - 🎓 Formação em testes de software com experiência em testes manuais e automação (Selenium, Rest-Assured, Appium).
